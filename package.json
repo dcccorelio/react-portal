@@ -1,6 +1,6 @@
 {
   "name": "@mediahuis/react-portal",
-  "version": "4.1.5",
+  "version": "4.2.0",
   "description": "To make your life with React Portals easier.",
   "main": "lib/commonjs/index.js",
   "module": "es/index.js",
@@ -13,7 +13,7 @@
     "*.md",
     "LICENSE",
     "lib",
-     "es"
+    "es"
   ],
   "repository": {
     "type": "git",
